@@ -781,6 +781,7 @@
                                 ความคิดสร้างสรรค์และความไม่เหมือนใคร
                                 </label>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -788,7 +789,7 @@
 
             <div class="row">
                 <div class="d-grid gap-2 col-6 mx-auto">
-                <button type="button" class="btn btn-primary btn-block" onclick="calculateResult()">ดูผลลัพธ์</button>
+                <button type="button" class="btn btn-primary btn-block" id="submit-calculate">ดูผลลัพธ์</button>
                 </div>
             </div>
 
@@ -806,6 +807,7 @@
   <script src="../assets/js/sidebarmenu.js"></script>
   <script src="../assets/js/app.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   <script src="../assets/js/quiz.js"></script>
 </body>
 
