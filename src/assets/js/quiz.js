@@ -33,7 +33,7 @@ $(document).ready(function () {
                     // สามารถเพิ่มแนวอื่นๆ ตามความต้องการได้ ตัวอย่าง
                     // case 'e':
                     //     moviePreferences.romance++;
-                    //     break;
+                    //     break; bayge
                 }
             } else {
                 results.push("คำถาม " + i + ": ไม่ได้เลือกคำตอบ");
