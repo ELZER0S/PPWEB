@@ -42,7 +42,13 @@ $password = $_POST["password"];
     $row = $result->fetch_assoc();
     //hash password
     $hash_password = $row["users_password"];
-    if(password_verify($password, $hash_password)){  
+    if(password_verify($password, $hash_password)){ 
+
+        session_start();
+        $_SESSION["users_id"] = $row["users_id"];
+        $_SESSION["users_name"] = $row["users_name"];
+        $_SESSION["users_mail"] = $row["users_mail"];
+
         echo "<script src='https://cdn.jsdelivr.net/npm/sweetalert2@11'></script>";
         echo "<script>
         Swal.fire({
