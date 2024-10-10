@@ -30,33 +30,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">1. ในวันหยุดสุดสัปดาห์ คุณชอบทำกิจกรรมแบบไหนมากที่สุด?</h5>
+                            <h5 class="card-title">1. คุณชอบดูหนังที่มีการต่อสู้กันระหว่างฮีโร่กับวายร้ายแบบไหน?</h5>
                             <hr>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q1" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                    ทำกิจกรรมที่ท้าทาย เช่น ปีนเขา หรือเดินป่า
+                                การต่อสู้ที่มีอุปกรณ์ไฮเทค
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q1" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                    อ่านหนังสือหรือใช้เวลาไปกับการไตร่ตรองเรื่องต่างๆ
+                                การต่อสู้ในสถานที่ที่มีความลึกลับ
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q1" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                    พบปะเพื่อนฝูงและทำกิจกรรมสนุกๆ ร่วมกัน
+                                การต่อสู้ที่มีมุกตลกแทรกอยู่
                                 </label>
                               
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q1" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                    อยู่บ้านดูซีรีส์หรือภาพยนตร์ที่ทำให้หัวใจเต้นแรง
+                                การต่อสู้ที่แสดงถึงความเข้มแข็งทางอารมณ์
                                 </label>
                             </div>
                         </div>
@@ -68,33 +68,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">2. คุณมักจะจัดการกับความเครียดอย่างไร?</h5>
+                            <h5 class="card-title">2. ถ้าต้องเลือกการเดินทาง คุณจะเลือกไปที่ไหน?</h5>
                             <hr>
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q2" value="a" id="flexRadioDefault1">
-                                <label class="form-check-label" for="flexRadioDefault1">
-                                    ไปออกกำลังกายหรือทำกิจกรรมที่ต้องใช้พลังงาน
-                                </label>
-                                
-                            </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q2" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                    นั่งสมาธิหรือใช้เวลาคิดทบทวนสิ่งที่เกิดขึ้น
+                                ป่าที่มีสัตว์ป่ามากมาย
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q2" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q2" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                หาสิ่งที่ทำให้หัวเราะหรือทำกิจกรรมที่ผ่อนคลาย
+                                เมืองที่มีประวัติศาสตร์
+                                </label>
+                                
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="q2" value="a" id="flexRadioDefault1">
+                                <label class="form-check-label" for="flexRadioDefault1">
+                                ที่ที่มีการต่อสู้กันเกิดขึ้น
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q1" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q2" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ดูหนังหรือเล่นเกมที่ตื่นเต้นเร้าใจ
+                                สถานที่ที่เต็มไปด้วยเวทมนตร์
                                 </label>
                             </div>
                         </div>
@@ -106,33 +106,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">3. คุณคิดว่าตัวเองเป็นคนที่มีลักษณะนิสัยแบบใด?</h5>
+                            <h5 class="card-title">3. คุณชอบตัวละครในหนังที่มีลักษณะอย่างไร?</h5>
                             <hr>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q3" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ชอบความท้าทายและกล้าหาญ
-                                </label>
-                                
-                            </div>
-                            <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q3" value="b" id="flexRadioDefault1">
-                                <label class="form-check-label" for="flexRadioDefault1">
-                                คิดลึกซึ้งและช่างสังเกต<
+                                ตัวละครที่กล้าหาญและเด็ดเดี่ยว
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q3" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สนุกสนานและชอบเข้าสังคม
+                                ตัวละครที่มีอารมณ์ขัน
+                                </label>
+                                
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="q3" value="g" id="flexRadioDefault1">
+                                <label class="form-check-label" for="flexRadioDefault1">
+                                ตัวละครที่มีการพัฒนาความรักที่ซับซ้อน
                                 </label>
                               
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q3" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ชอบการท้าทายและความตื่นเต้นในชีวิต
+                                ตัวละครที่ทำให้คุณคิดถึงความสัมพันธ์
                                 </label>
                             </div>
                         </div>
@@ -144,33 +144,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">4. ถ้าต้องเลือกรูปแบบการเดินทางท่องเที่ยว คุณจะเลือกไปที่ไหน??</h5>
+                            <h5 class="card-title">4. คุณสนใจหนังแนว Horror ที่เน้นเรื่องราวแบบไหน?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q4" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q4" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สถานที่ที่มีการผจญภัย เช่น ภูเขาหรือทะเลทราย
+                                เรื่องราวเกี่ยวกับการหลบหนีจากปีศาจ
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q4" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q4" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สถานที่ที่เงียบสงบและให้ความรู้สึกผ่อนคลาย
+                                เรื่องราวที่เกี่ยวกับความน่ากลัวในจิตใจมนุษย์
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q4" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สถานที่ที่เต็มไปด้วยความสนุกสนาน เช่น สวนสนุก
+                                การใช้มุกตลกเพื่อบรรเทาความเครียดในสถานการณ์ 
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q4" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q4" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สถานที่ที่มีเรื่องราวลึกลับหรือสถานที่ประวัติศาสตร์ที่น่าตื่นเต้น
+                                การสำรวจความลึกลับที่เต็มไปด้วยความตื่นเต้น
                                 </label>
                             </div>
                         </div>
@@ -182,33 +182,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">5. เมื่อคุณดูภาพยนตร์ คุณมักจะมองหาอะไรในเรื่องนั้น?</h5>
+                            <h5 class="card-title">5. คุณชอบดูหนังแนว Sci-Fi ที่มีเทคโนโลยีแบบไหน?</h5>
                             <hr>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q5" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ฉากแอคชั่นและการผจญภัยที่น่าตื่นเต้น
+                                เทคโนโลยีที่ช่วยในการต่อสู้
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q5" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เนื้อเรื่องที่ลึกซึ้งและมีความหมาย
+                                เทคโนโลยีที่ช่วยในการสำรวจ
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q5" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ฉากตลกและเรื่องราวที่ทำให้ผ่อนคลาย
+                                เทคโนโลยีที่สร้างเสียงหัวเราะ 
                                 </label>
                               
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q5" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ฉากที่สร้างความระทึกใจและทำให้ต้องลุ้นตาม
+                                เทคโนโลยีที่มีผลกระทบต่ออารมณ์และความรู้สึก
                                 </label>
                             </div>
                         </div>
@@ -220,33 +220,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">6. ถ้าคุณต้องเลือกกิจกรรมเพื่อผ่อนคลายหลังจากวันที่ยากลำบาก คุณจะเลือกทำอะไร?</h5>
+                            <h5 class="card-title">6. คุณชอบหนังที่เกี่ยวกับความรักในลักษณะไหน?</h5>
                             <hr>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q6" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ออกกำลังกายหรือทำกิจกรรมที่ต้องใช้แรง
+                                ความรักที่มีความตื่นเต้น
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q6" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                อ่านหนังสือหรือฟังเพลงเงียบๆ
+                                ความรักที่ต้องผจญภัย
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q6" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ดูหนังตลกหรือเล่นเกมกับเพื่อน
+                                ความรักที่เต็มไปด้วยเสียงหัวเราะ
                                 </label>
                               
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q6" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ดูภาพยนตร์ที่ทำให้รู้สึกตื่นเต้นหรือท้าทาย
+                                ความรักที่ซับซ้อนและมีปัญหา
                                 </label>
                             </div>
                         </div>
@@ -258,33 +258,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">7. บุคลิกแบบใดที่คุณคิดว่าเข้ากับตัวคุณที่สุด?</h5>
+                            <h5 class="card-title">7. ถ้าคุณต้องเลือกระหว่างการเข้าร่วมการต่อสู้ คุณจะเลือกแบบไหน?</h5>
                             <hr>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q7" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                นักผจญภัยที่ไม่กลัวความท้าทาย
+                                การต่อสู้ในสนามรบ
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q7" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                นักคิดที่ชอบวิเคราะห์และมองโลกในแง่มุมต่างๆ
+                                การต่อสู้เพื่อค้นหาความจริง
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q7" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                คนที่สนุกสนานและชอบสร้างความสุขให้คนรอบข้าง
+                                การต่อสู้ที่ทำให้เกิดความสนุกสนาน
                                 </label>
                               
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q7" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                คนที่ชอบความลึกลับและสิ่งที่ท้าทายความคิด
+                                การต่อสู้ที่แสดงให้เห็นถึงความเจ็บปวดทางอารมณ์
                                 </label>
                             </div>
                         </div>
@@ -296,33 +296,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">8. เมื่อคุณพบเจอปัญหาในชีวิตประจำวัน คุณจัดการกับปัญหาเหล่านั้นอย่างไร?</h5>
+                            <h5 class="card-title">8. คุณชอบดูหนังที่มีฉากการเดินทางในอวกาศหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q8" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เผชิญหน้าและแก้ไขปัญหาด้วยความกล้าหาญ
+                                การต่อสู้กับศัตรูในอวกาศ
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q8" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                พิจารณาและคิดวิเคราะห์เพื่อหาวิธีแก้ไขที่ดีที่สุด
+                                การค้นพบดาวใหม่
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q8" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                หันเหความสนใจไปทำกิจกรรมที่สนุกสนานเพื่อคลายเครียด
+                                การทำให้สถานการณ์ตลกในอวกาศ
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q8" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q8" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                มองหาความช่วยเหลือหรือแรงบันดาลใจจากคนรอบข้าง
+                                ความสัมพันธ์ที่เกิดขึ้นในอวกาศ
                                 </label>
                             </div>
                         </div>
@@ -334,33 +334,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">9. ในกลุ่มเพื่อน คุณมักจะเป็นคนแบบไหน?</h5>
+                            <h5 class="card-title">9. คุณชอบการสร้างโลกในหนัง Fantasy แบบไหน?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q9" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q9" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                คนที่ชอบเป็นผู้นำและจัดการสถานการณ์ต่างๆ
+                                โลกที่มีเวทมนตร์และการต่อสู้ 
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q9" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                คนที่คอยรับฟังและให้คำแนะนำเชิงลึก
+                                โลกที่เต็มไปด้วยการผจญภัย
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q9" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                คนที่มักสร้างเสียงหัวเราะและบรรยากาศที่เป็นกันเอง
+                                โลกที่มีมุกตลกและความสนุกสนาน
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q9" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q9" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                คนที่ชอบเสนอไอเดียใหม่ๆ และทำให้เกิดความสนุกสนานท้าทาย
+                                โลกที่มีการพัฒนาความรักที่ซับซ้อน
                                 </label>
                             </div>
                         </div>
@@ -372,33 +372,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">10. กิจกรรมใดที่คุณรู้สึกว่าทำให้คุณมีความสุขที่สุด?</h5>
+                            <h5 class="card-title">10. คุณสนใจเรื่องราวการสำรวจในหนังแนวไหน?</h5>
                             <hr>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q10" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                กิจกรรมที่ท้าทายความสามารถและทำให้รู้สึกสำเร็จ
+                                การสำรวจที่เต็มไปด้วยอันตราย
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q10" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                การใช้เวลาเงียบๆ กับตัวเองเพื่อคิดทบทวนหรือทำสมาธิ
+                                การสำรวจเพื่อค้นหาความจริง 
                                 </label>
                                 
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q10" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                การทำกิจกรรมที่ทำให้คุณและคนรอบข้างสนุกสนาน
+                                การสำรวจที่มีมุกขำขันแทรกอยู่
                                 </label>
                               
                             </div>
                             <div class="form-check">
                                 <input class="form-check-input" type="radio" name="q10" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                การทำสิ่งที่น่าตื่นเต้นและท้าทายความสามารถ
+                                การสำรวจที่เกี่ยวกับความรู้สึกของตัวละคร 
                                 </label>
                             </div>
                         </div>
@@ -410,33 +410,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">11. ถ้าคุณต้องเขียนเรื่องราวของชีวิตตัวเอง คุณคิดว่าชีวิตคุณจะเป็นแนวไหน?</h5>
+                            <h5 class="card-title">11. คุณชอบหนังที่เกี่ยวข้องกับการค้นพบสิ่งมีชีวิตจากนอกโลกหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q11" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q11" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ผจญภัยและเต็มไปด้วยความท้าทาย
+                                การค้นพบที่เต็มไปด้วยความท้าทายและการเอาชีวิตรอด
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q11" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q11" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ลึกซึ้งและเต็มไปด้วยเรื่องราวที่ซับซ้อน
+                                การค้นพบที่ทำให้เกิดเหตุการณ์ลึกลับ
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q11" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q11" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สนุกสนานและมีช่วงเวลาที่สร้างเสียงหัวเราะมากมาย
+                                การค้นพบที่น่าขนลุกและน่ากลัว
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q11" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q11" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เต็มไปด้วยความลึกลับและเหตุการณ์ไม่คาดฝัน
+                                การค้นพบที่ส่งผลให้เกิดความรักและความเข้าใจ
                                 </label>
                             </div>
                         </div>
@@ -448,33 +448,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">12. เวลาคุณเลือกหนังสือมาอ่าน คุณมักจะเลือกหนังสือประเภทใด?</h5>
+                            <h5 class="card-title">12. คุณชอบดูหนังที่มีฉากในโลกที่ต่างจากความเป็นจริงหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q12" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q12" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                นิยายผจญภัยหรือแอคชั่นที่เต็มไปด้วยความตื่นเต้น
+                                โลกที่มีสิ่งมีชีวิตและเวทมนตร์
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q12" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q12" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                หนังสือแนวปรัชญาหรือการพัฒนาตนเองที่ช่วยให้คุณเติบโต
+                                โลกที่เต็มไปด้วยเทคโนโลยีที่ล้ำหน้า
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q12" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q12" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                นิยายตลกหรือเรื่องสั้นที่ทำให้คุณหัวเราะได้
+                                โลกที่มีพลังเหนือธรรมชาติและสิ่งน่ากลัว
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q12" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q12" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                หนังสือสืบสวนหรือเรื่องลึกลับที่ทำให้คุณต้องคิดวิเคราะห์
+                                โลกที่มุ่งเน้นความรักและการเสียสละ
                                 </label>
                             </div>
                         </div>
@@ -486,33 +486,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">13. ถ้าคุณสามารถมีพลังพิเศษได้หนึ่งอย่าง คุณจะเลือกพลังแบบไหน?</h5>
+                            <h5 class="card-title">13. ถ้าคุณต้องเลือกระหว่างดูหนังที่มีฉากความรักในโลกอนาคต คุณจะเลือกแบบไหน?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q13" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q13" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                พลังที่ทำให้คุณสามารถป้องกันตัวเองหรือช่วยเหลือผู้อื่นในสถานการณ์อันตราย
+                                ความรักที่เต็มไปด้วยความท้าทายทางเทคโนโลยี
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q13" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q13" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                พลังที่ช่วยให้คุณมองเห็นอนาคตหรือเข้าใจความคิดของคนอื่น
+                                ความรักที่แสดงถึงการเสียสละและการเผชิญปัญหา
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q13" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q13" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                พลังที่ทำให้คุณสร้างความสุขหรือความสนุกสนานให้คนรอบข้าง
+                                ความรักที่เกิดขึ้นในสถานการณ์ที่น่ากลัวและน่าหวาดเสียว
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q13" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q13" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                พลังที่ทำให้คุณสามารถหลบหลีกจากอันตรายหรือแก้ปัญหายากๆ ได้อย่างง่ายดาย
+                                ความรักที่เกิดขึ้นในโลกแห่งเวทมนตร์และความลึกลับ
                                 </label>
                             </div>
                         </div>
@@ -524,33 +524,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">14. เวลาคุณคิดถึงอนาคต คุณมักจะวางแผนชีวิตตัวเองอย่างไร?</h5>
+                            <h5 class="card-title">14. คุณชอบดูหนังที่เน้นเกี่ยวกับความลึกลับและเรื่องราวที่ไม่สามารถอธิบายได้หรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q14" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q14" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                วางแผนเพื่อเผชิญกับความท้าทายและการเปลี่ยนแปลง
+                                เรื่องราวที่มุ่งเน้นไปที่เวทมนตร์และการผจญภัย
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q14" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q14" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ตั้งเป้าหมายชีวิตที่ชัดเจนและมุ่งมั่นที่จะบรรลุ
+                                เรื่องราวที่เต็มไปด้วยเทคโนโลยีล้ำสมัยและการเดินทางข้ามเวลา
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q14" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q14" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ใช้ชีวิตอย่างเต็มที่ในทุกวันและสนุกกับปัจจุบัน
+                                เรื่องราวที่เกี่ยวข้องกับความกลัวและสิ่งน่าขนลุก
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q14" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q14" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เตรียมพร้อมสำหรับทุกสถานการณ์ที่ไม่คาดคิด
+                                เรื่องราวที่แสดงให้เห็นถึงความรักที่ลึกลับและลึกซึ้ง
                                 </label>
                             </div>
                         </div>
@@ -562,33 +562,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">15. ถ้าคุณสามารถไปใช้ชีวิตที่ไหนก็ได้ คุณจะเลือกที่ไหน?</h5>
+                            <h5 class="card-title">15. คุณสนใจดูหนังที่มีเนื้อหาเกี่ยวกับการเดินทางข้ามเวลาเพื่อช่วยคนที่รักหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q15" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q15" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เมืองใหญ่ที่เต็มไปด้วยโอกาสและความตื่นเต้น
+                                การเดินทางข้ามเวลาที่เต็มไปด้วยความรักและความซับซ้อน
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q15" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q15" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เมืองเล็กๆ ที่เงียบสงบและมีธรรมชาติรอบตัว
+                                การเดินทางที่เกิดขึ้นในโลกที่เต็มไปด้วยเทคโนโลยีล้ำสมัย
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q15" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q15" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ชุมชนที่เต็มไปด้วยผู้คนสนุกสนานและกิจกรรมบันเทิง
+                                การเดินทางข้ามเวลาเพื่อต่อสู้กับปีศาจหรือผี
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q15" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q15" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สถานที่ที่มีประวัติศาสตร์ลึกลับหรือสภาพแวดล้อมที่น่าค้นหา
+                                การเดินทางในโลกแฟนตาซีที่มีเวทมนตร์
                                 </label>
                             </div>
                         </div>
@@ -600,33 +600,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">16. เมื่อคุณดูหนัง คุณชอบให้ตัวละครหลักมีลักษณะอย่างไร?</h5>
+                            <h5 class="card-title">16. คุณสนใจดูหนังที่ตัวละครเอกต้องเอาชีวิตรอดจากสัตว์ประหลาดหรือพลังลึกลับหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q16" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q16" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                กล้าหาญและไม่กลัวเผชิญหน้ากับอันตราย
+                                การเอาชีวิตรอดจากสิ่งมีชีวิตต่างดาว
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q16" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q16" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เมืองเล็กๆ ละเอียดอ่อนและมีความคิดลึกซึ้ง
+                                การเอาชีวิตรอดในโลกที่เต็มไปด้วยเวทมนตร์และมอนสเตอร์ 
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q16" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q16" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                สนุกสนานและมองโลกในแง่ดี
+                                การเอาชีวิตรอดจากพลังเหนือธรรมชาติที่น่ากลัว
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q16" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q16" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ลึกลับและคาดเดาไม่ได้
+                                การเอาชีวิตรอดเพื่อรักษาคนที่รักไว้
                                 </label>
                             </div>
                         </div>
@@ -638,33 +638,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">17. คุณรู้สึกเชื่อมโยงกับเนื้อหาประเภทใดมากที่สุด?</h5>
+                            <h5 class="card-title">17. คุณชอบดูหนังที่มีการเผชิญหน้ากับสิ่งน่ากลัวที่ไม่สามารถอธิบายได้หรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q17" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q17" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เรื่องราวที่เกี่ยวกับความสำเร็จจากการต่อสู้หรือความท้าทาย
+                                เผชิญหน้ากับสิ่งน่ากลัวในเทคโนโลยีอนาคต
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q17" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q17" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เรื่องราวที่เต็มไปด้วยการค้นหาความหมายของชีวิต
+                                เผชิญหน้ากับสัตว์ประหลาดและพลังเวทมนตร์
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q17" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q17" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เรื่องราวที่ให้ความสุขและการหัวเราะ
+                                เผชิญหน้ากับผีและปีศาจในสถานการณ์น่าหวาดเสียว
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q17" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q17" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เรื่องราวที่ทำให้คุณต้องคาดเดาและรู้สึกตื่นเต้น
+                                เผชิญหน้ากับความรักในสถานการณ์ที่ไม่คาดคิด
                                 </label>
                             </div>
                         </div>
@@ -676,33 +676,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">18. ถ้าคุณมีเวลาว่างสัก 1 ชั่วโมง คุณจะเลือกทำอะไร?</h5>
+                            <h5 class="card-title">18. คุณชอบหนังที่ตัวละครต้องต่อสู้เพื่อปกป้องความรักจากอันตรายหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q18" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q18" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ไปเล่นกีฬาหรือทำกิจกรรมกลางแจ้ง
+                                ต่อสู้ในโลกที่เต็มไปด้วยเวทมนตร์
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q18" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q18" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                อ่านหนังสือหรือฟังเพลงเงียบๆ เพื่อผ่อนคลาย
+                                ต่อสู้ในโลกที่เทคโนโลยีเข้ามาเป็นปัจจัยสำคัญ
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q18" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q18" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                นัดพบเพื่อนเพื่อสังสรรค์
+                                ต่อสู้กับปีศาจและสิ่งน่ากลัวเพื่อปกป้องคนที่รัก
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q18" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q18" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ดูซีรีส์หรือหนังที่ทำให้คุณตื่นเต้น
+                                ต่อสู้เพื่อรักษาความรักและความสัมพันธ์ 
                                 </label>
                             </div>
                         </div>
@@ -714,33 +714,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">19. เมื่อคุณต้องเผชิญหน้ากับการตัดสินใจที่สำคัญ คุณมักจะทำอย่างไร?</h5>
+                            <h5 class="card-title">19. คุณชอบดูหนังที่เกี่ยวกับการเดินทางในอวกาศหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q19" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q19" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ตัดสินใจอย่างรวดเร็วและลงมือทำทันที
+                                การเดินทางในอวกาศเพื่อค้นหาความหมายของชีวิต
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q19" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q19" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                คิดพิจารณาและวิเคราะห์ข้อดีข้อเสียอย่างละเอียด
+                                การเดินทางในอวกาศที่เต็มไปด้วยความรักและความสัมพันธ์
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q19" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q19" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ปรึกษากับคนรอบข้างก่อนตัดสินใจ
+                                การเดินทางในอวกาศที่ต้องต่อสู้กับอันตรายจากสิ่งมีชีวิตต่างดาว 
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q19" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q19" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ลองทำสิ่งใหม่ๆ และพร้อมรับมือกับผลที่ตามมา
+                                การเดินทางในอวกาศที่เต็มไปด้วยโลกแฟนตาซีและสิ่งลึกลับ
                                 </label>
                             </div>
                         </div>
@@ -752,33 +752,33 @@
                 <div class="col-lg-6 mx-auto">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">20. คุณมักจะได้รับคำชมเรื่องอะไรจากคนรอบข้าง?</h5>
+                            <h5 class="card-title">20. คุณชอบหนังที่มีฉากในโลกที่เต็มไปด้วยสัตว์วิเศษหรือไม่?</h5>
                             <hr>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q20" value="a" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q20" value="e" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ความกล้าหาญและความเป็นผู้นำ
+                                โลกที่เต็มไปด้วยสัตว์วิเศษและพลังเวทมนตร์ 
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q20" value="b" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q20" value="h" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ความเฉลียวฉลาดและความลึกซึ้งในการมองปัญหา
+                                โลกที่เต็มไปด้วยสิ่งมีชีวิตจากต่างดาว
                                 </label>
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q20" value="c" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q20" value="f" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ความสนุกสนานและเป็นมิตร
+                                โลกที่เต็มไปด้วยสิ่งมีชีวิตที่น่ากลัวและน่าขนลุก
                                 </label>
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q20" value="d" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q20" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ความคิดสร้างสรรค์และความไม่เหมือนใคร
+                                โลกที่แสดงถึงความรักที่ยิ่งใหญ่ท่ามกลางอันตราย
                                 </label>
                             </div>
                             

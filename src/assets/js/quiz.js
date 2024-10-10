@@ -2,10 +2,14 @@ $(document).ready(function () {
     $("#submit-calculate").click(function () {
         let results = [];
         let moviePreferences = {
-            action: 0,
-            drama: 0,
-            comedy: 0,
-            thriller: 0,
+            Action: 0,
+            Adventure: 0,
+            Comedy: 0,
+            Drama: 0,
+            Fantasy: 0,
+            Horror: 0,
+            Romance: 0,
+            Sci_fi: 0,
             // สามารถเพิ่มแนวอื่นๆ ตามความต้องการได้ ตัวอย่างการใส่ code แนวอื่นๆ ด้านล่าง โดยให้คะแนนเริ่มต้นเป็น 0 ดังนี้
             // romance: 0,
         };
@@ -19,17 +23,29 @@ $(document).ready(function () {
                 // เพิ่มคะแนนตามคำตอบที่เลือก
                 switch (answer) {
                     case 'a':
-                        moviePreferences.action++;
+                        moviePreferences.Action++;
                         break;
                     case 'b':
-                        moviePreferences.drama++;
+                        moviePreferences.Adventure++;
                         break;
                     case 'c':
-                        moviePreferences.comedy++;
+                        moviePreferences.Comedy++;
                         break;
                     case 'd':
-                        moviePreferences.thriller++;
+                        moviePreferences.Drama++;
                         break;
+                     case 'e':
+                        moviePreferences.Fantasy++;
+                        break;    
+                     case 'f':
+                        moviePreferences.Horror++;
+                        break; 
+                    case 'g':
+                        moviePreferences.Romance++;
+                        break; 
+                    case 'h':
+                        moviePreferences.Sci_fi++;
+                        break;                                         
                     // สามารถเพิ่มแนวอื่นๆ ตามความต้องการได้ ตัวอย่าง
                     // case 'e':
                     //     moviePreferences.romance++;
