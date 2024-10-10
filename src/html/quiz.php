@@ -434,7 +434,7 @@
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q11" value="f" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q11" value="g" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
                                 การค้นพบที่ส่งผลให้เกิดความรักและความเข้าใจ
                                 </label>
@@ -541,9 +541,9 @@
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q14" value="f" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q14" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เรื่องราวที่เกี่ยวข้องกับความกลัวและสิ่งน่าขนลุก
+                                เรื่องราวที่เกี่ยวข้องกับความสัมพันธ์ที่ลึกซึ้งและความลับที่ซ่อนเร้น
                                 </label>
                               
                             </div>
@@ -586,9 +586,9 @@
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q15" value="e" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q15" value="d" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                การเดินทางในโลกแฟนตาซีที่มีเวทมนตร์
+                                การเดินทางข้ามเวลาที่เต็มไปด้วยความรักและความซับซ้อนทางอารมณ์
                                 </label>
                             </div>
                         </div>
@@ -648,9 +648,9 @@
                                 
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q17" value="e" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q17" value="c" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เผชิญหน้ากับสัตว์ประหลาดและพลังเวทมนตร์
+                                เผชิญหน้ากับสิ่งน่ากลัวแต่กลับกลายเป็นเรื่องตลกขบขัน
                                 </label>
                                 
                             </div>
@@ -662,9 +662,9 @@
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q17" value="g" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q17" value="b" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                เผชิญหน้ากับความรักในสถานการณ์ที่ไม่คาดคิด
+                                เผชิญหน้ากับสิ่งน่ากลัวในการผจญภัยที่ไม่รู้จบ
                                 </label>
                             </div>
                         </div>
@@ -700,9 +700,9 @@
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q18" value="g" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q18" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                ต่อสู้เพื่อรักษาความรักและความสัมพันธ์ 
+                                ต่อสู้เพื่อปกป้องความรักด้วยความกล้าหาญและพลัง
                                 </label>
                             </div>
                         </div>
@@ -776,9 +776,9 @@
                               
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="radio" name="q20" value="g" id="flexRadioDefault1">
+                                <input class="form-check-input" type="radio" name="q20" value="a" id="flexRadioDefault1">
                                 <label class="form-check-label" for="flexRadioDefault1">
-                                โลกที่แสดงถึงความรักที่ยิ่งใหญ่ท่ามกลางอันตราย
+                                โลกที่เต็มไปด้วยสัตว์วิเศษและการต่อสู้เพื่อปกป้องความสงบ
                                 </label>
                             </div>
                             
