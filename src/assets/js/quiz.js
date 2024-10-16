@@ -75,11 +75,14 @@ $(document).ready(function () {
         // ประมวลผลผลลัพธ์
         let preferredGenre = Object.keys(moviePreferences).reduce((a, b) => moviePreferences[a] > moviePreferences[b] ? a : b);
 
-        // แสดงผลลัพธ์
+        // แสดงผลลัพธ์ ด้วยรูปแบบของ SweetAlert และ ใส่รูปภาพ ตามแนวหนัง
         Swal.fire({
             title: "ผลลัพธ์",
-            html: results.join("<br>") + "<br><br>คุณชอบดูหนังแนว: <b>" + preferredGenre + "</b>",
-            icon: "info"
+            text: "คุณชอบดูหนังแนว " + preferredGenre,
+            imageUrl: "../assets/images/movie_type/" + preferredGenre + ".png",
+            imageWidth: 400,
+            imageHeight: 200,
+            imageAlt: preferredGenre
         });
 
         //insert data to database
