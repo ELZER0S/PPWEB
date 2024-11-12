@@ -1,3 +1,31 @@
+<?php
+
+    session_start();
+    include("../../include/include_db_oo.php");
+
+    $quiz = "SELECT * FROM question";
+    $result = $conn->query($quiz);
+
+
+    //check ว่ามีกี่ row
+    $row = $result->num_rows;
+
+
+    if(!isset($_SESSION['users_id'])) {
+        header('Location: ../../login.php');
+    }
+    
+    $users_id = $_SESSION['users_id'];
+
+    $get_data_name = "SELECT * FROM users WHERE users_id = $users_id";
+    $get_data_name_result = $conn->query($get_data_name);
+
+    $get_data_name_row = $get_data_name_result->fetch_assoc();
+
+
+
+?>
+
 <!doctype html>
 <html lang="en">
 
