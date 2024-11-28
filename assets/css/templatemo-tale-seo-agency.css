@@ -41,6 +41,12 @@ figure, header, nav, section, article, aside, footer, figcaption {
   outline: 0;
 }
 
+.main-banner h4 em{
+  color: #ea0023 !important;
+}
+.main-banner h4 span{
+  color: #003eea !important;
+}
 .clearfix:after {
   content: ".";
   display: block;
@@ -156,7 +162,7 @@ body {
 .second-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #c03afe;
+  background-color: #f22c47;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -335,7 +341,7 @@ Header Style
 .header-area {
   position: absolute;
   background: rgb(85,0,227);
-  background: linear-gradient(90deg, rgba(85,0,227,1) 0%, rgba(198,61,255,1) 100%);
+  background: linear-gradient(90deg, #ff002f 0%, rgb(25, 0, 255) 100%);
   height: 110px;
   top: 57px;
   left: 0;
@@ -828,7 +834,7 @@ Banner Style
 }
 
 .main-banner:after {
-  content: url(../images/banner-right.png);
+  content: url(../images/MM-R.png);
   top: -1px;
   right: 0;
   position: absolute;
@@ -913,7 +919,7 @@ Services Style
 }
 
 .services::before {
-  content: url(../images/services-left.jpg);
+  content: url(../images/MM-L.png);
   top: 120px;
   left: 0;
   position: absolute;
@@ -1339,7 +1345,7 @@ Page Heading Style
 }
 
 .page-heading h4 span {
-  color: #c03afe;
+  color: #ff0059;
 }
 
 .page-heading p {

@@ -1,6 +1,6 @@
 <div class="container">
       <div class="col-lg-12">
-        <p>Copyright © 2036 <a href="#">Tale SEO Agency</a>. All rights reserved.
+        <p>Copyright © 2024 <a href="#">PPWEB</a>. All rights reserved.
 
           <br>Design: <a href="https://templatemo.com" target="_blank">TemplateMo</a> Distribution: <a
             href="https://themewagon.com">ThemeWagon</a>
